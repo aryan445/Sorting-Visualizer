@@ -1,5 +1,4 @@
-<img width="933" alt="image" src="https://github.com/user-attachments/assets/7be8b815-4ee7-44d9-88a9-7390a67a6619"># Sorting-Visualizer
-The Sorting Visualizer is a web-based tool designed to help users understand how different sorting algorithms work through visual animations. It allows users to see the step-by-step process of sorting data using popular algorithms like Bubble Sort, Quick Sort, Merge Sort, and more.
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/7be8b815-4ee7-44d9-88a9-7390a67a6619">
 
 # Sorting Algorithm Visualizer
 This project is a Sorting Algorithm Visualizer built to help users understand how different sorting algorithms work by visualizing the sorting process in real-time. It provides a graphical representation of various sorting algorithms, allowing users to see how elements are compared, swapped, and arranged into order.
